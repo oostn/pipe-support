@@ -42,5 +42,3 @@ The following SolidWorks tools/features were used:
 
 ## Purpose
 This model was created as part of CAD practice to improve mechanical design and 3D modeling skills.
-
----
